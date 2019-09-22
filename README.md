@@ -7,7 +7,7 @@ Implement classical data flow algorithm via LLVM. Currently I completed:
 
 # Intallation
 
-Export your LLVM install directory to `$L`.
+Export your LLVM install directory to `$LLVM_HOME`.
 
 Then 
 ```
