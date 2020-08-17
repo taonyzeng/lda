@@ -2,7 +2,7 @@
 #include "llvm/IR/Instructions.h"
 #include "llvm/IR/Function.h"
 #include "llvm/IR/InstIterator.h"
-#include "llvm/Analysis/CFG.h"
+#include "llvm/IR/CFG.h"
 
 #include <vector>
 #include <set>
